@@ -2947,8 +2947,8 @@ details-disclosure > details {
 }
 
 .gradient {
-  background: rgb(var(--color-background));
-  background: var(--gradient-background);
+  background: black;
+  background: black;
   background-attachment: fixed;
 }
 
